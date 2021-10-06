@@ -1,3 +1,4 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
 <b>Task 2</b> <br>
 <form method="post" >
 <p>Ошибок: <input type="text" name="errors" size="2" required /> </p>
